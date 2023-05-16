@@ -37,3 +37,4 @@ botaoEnviarFoto.addEventListener("click", () => {
 })
 
 //https://www.alura.com.br/artigos/algoritmos-e-logica-de-programacao
+//https://cursos.alura.com.br/trilha-iniciante-em-javascript-neilton-seguins-1654781141757-p381839
